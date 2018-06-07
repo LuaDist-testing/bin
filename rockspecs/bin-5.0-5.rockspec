@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "bin"
-version = "5.0-4"
--- LuaDist source
+version = "5.0-5"
 source = {
-  tag = "5.0-4",
-  url = "git://github.com/LuaDist-testing/bin.git"
+   url = "git://github.com/rayaman/bin.git",
+   tag = "v5.0.5",
 }
--- Original source
--- source = {
---    url = "git://github.com/rayaman/bin.git",
---    tag = "v5.0.4",
--- }
 description = {
    summary = "Lua Binary ManIpulatioN library",
    detailed = [[
